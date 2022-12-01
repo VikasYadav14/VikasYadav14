@@ -1,7 +1,7 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<picture align="right" alt="Coding" width="400" >
+<picture>
 <source 
   srcset="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
   media="(prefers-color-scheme: dark)"
@@ -23,14 +23,17 @@
 - 💬 Ask me about **MongoDB, NodeJS and JavaScript**
 
 - 📫 How to reach me **vikasyadav14nov@gmail.com**
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me :star:</h2>
+<p align="center">
 <a href="https://linkedin.com/in/imvikasyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imvikasyadav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vikas_yadav14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_yadav14" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+## 💻Tech Stack
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -47,8 +50,15 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 
+
+
+
+## 📊GitHub Stats :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasyadav14&theme=transparent&show_icons=true&layout=compact" alt="vikasyadav14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasyadav14&theme=transparent&show_icons=true" alt="vikasyadav14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vikasyadav14&theme=blueberry_duo" alt="vikasyadav14" /></p>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
