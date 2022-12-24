@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React, NextJS**
 
-- 👨‍💻 All of my projects are available at [portfolio-vikasyadav14](https://vikasyadav.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://vikasyadav.vercel.app/)
 
 - 💬 Ask me about **MongoDB, NodeJS and JavaScript**
 
