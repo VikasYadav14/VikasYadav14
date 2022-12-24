@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React, NextJS**
 
-- 👨‍💻 All of my projects are available at [portfolio-vikasyadav14](https://portfolio-vikasyadav14.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio-vikasyadav14](https://vikasyadav.vercel.app/)
 
 - 💬 Ask me about **MongoDB, NodeJS and JavaScript**
 
@@ -31,7 +31,7 @@
 
 <p>
 <a href="https://linkedin.com/in/imvikasyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imvikasyadav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vikas_yadav14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_yadav14" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imvikasyadav14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_yadav14" height="30" width="40" /></a>
 </p>
 
 
