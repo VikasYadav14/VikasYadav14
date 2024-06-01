@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **React, NextJS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://vikasyadav.vercel.app/)
 
